@@ -9,7 +9,7 @@ Oii eu sou o Mateus Borges 👋<br><br><br>Bacharel em Ciência da Computação 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-borges-ferreira/) 
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mateusinfo36@gmail.com
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/nYPWf1
 )
 
 # 💻 Tech Stack:

@@ -12,10 +12,10 @@ a atuar como analista de suporte júnior, atualmente buscando novas oportunidade
 para meu crescimento profissional e acadêmico.
 
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-borges-ferreira/(https://www.linkedin.com/in/mateus-borges-ferreira/)) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/nYPWf1
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/mateus-borges-ferreira/)) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/nYPWf1
 )
+
 
 
 

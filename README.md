@@ -1,5 +1,16 @@
 # 💫 Sobre mim:
-Oii eu sou o Mateus Borges 👋<br><br><br>Bacharel em Ciência da Computação pelo Centro Universitário Carlos Drummond de Andrade, Analista de Suporte Junior com 4 anos de experiência na área onde minhas principais atuações foram na maior emissora da América Latina.<br>Iniciei meu contato na área de tecnologia fazendo um curso de manutenção e suporte em informática <br>Na Etec Adhemar Batista Hemeritas, e com a graduação em ciência da computação.<br>Minha primeira oportunidade profissional surgiu com um estágio na Consultoria Stefanini que durou 1 ano com carga horária 300 horas, desde então comecei a atuar como analista de suporte júnior e estou até o momento.
+Oii eu sou o Mateus Borges 👋<br><br><br>Sou Bacharel em Ciência da Computação pelo centro universitário Carlos Drummond
+De Andrade, prestei serviços como Analista de Suporte Júnior durante 4 (quatro) anos,
+onde minhas principais atuações foram na emissora Globo.
+Iniciei meu contato no ramo de tecnologia fazendo meu primeiro curso de manutenção
+e suporte em informática na Etec Adhemar Batista Heméritas, e com estudo na área
+peguei o interesse e gosto iniciando, portanto, minha graduação em Ciência da
+Computação.
+Minha primeira oportunidade profissional surgiu com um estágio na Consultoria
+Stefanini que durou 1 (um) ano com carga horária de 300 horas, desde então comecei
+a atuar como analista de suporte júnior, atualmente buscando novas oportunidades
+para meu crescimento profissional e acadêmico.
+
 
 
 ## 🌐 Socials:
